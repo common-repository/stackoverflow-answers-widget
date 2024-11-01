@@ -1,0 +1,41 @@
+#osanswerswidget {
+    overflow: hidden;
+}
+.os-answer-total {
+    color:gray;
+    margin-bottom: 5px;
+}
+.os-answer {
+    width: 100%;
+    border-bottom: 1px dotted #EEEEEE;
+    clear: left;
+    float: left;
+    margin-bottom: 5px;
+}
+.os-last-answer {
+    border:0px none;
+}
+.os-answer-votes {
+    text-align: center;
+    background-color: #eee;
+    float: left;
+    font-weight: bold;
+    padding: 3px;
+    padding-bottom: 4px;
+    width: 20px;
+    height: 18px;
+}
+.answered-accepted {
+    background:greenyellow;
+    color:#101010;
+}
+.os-answer-link {
+    float: left;
+    margin-left: 5px;
+    width: 82%;
+}
+.os-answer-date {
+    float: right;
+    font-size: 90%;
+    font-style: italic;
+}
